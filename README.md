@@ -1,6 +1,6 @@
 # DnCNN
 
-This repo is for Jinan University 2023 Spring Mathematical Modeling Project
+This repo is for Jinan University 2023 Spring Mathematical Modeling Project: **Color image denosing**
 
 Original paper: [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising](https://arxiv.org/abs/1608.03981)
 
