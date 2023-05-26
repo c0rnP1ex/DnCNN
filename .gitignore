@@ -1,5 +1,11 @@
-/DataSets/DIV2K_train_HR
+/__pycache__
+/cache
 /DataSets/CBSD68
-/trainData/patches_40
+/DataSets/DIV2K_train_HR
+/kernel*
+/output
 /temp
+/trainData/patches_40
 check_*
+fusion_result.json
+train_result*
